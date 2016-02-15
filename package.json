@@ -7,10 +7,10 @@
   "description": "BenchJS is a simple Node.js library that helps you benchmark the execution time inside your programs.",
   "version": "1.0.0",
   "contributors": [
-    {
-      "name": "Hugo Santos",
-      "email": "hugoasantos@gmail.com"
-    }
+  {
+    "name": "Hugo Santos",
+    "email": "hugoasantos@gmail.com"
+  }
   ],
   "keywords": [
     "bench",
