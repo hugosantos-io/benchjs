@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 BenchJS
 ========
 BenchJS is simple benchmark time track Node.js library
@@ -30,8 +29,4 @@ $ npm install benchjs
 
 ## License
 
-  [ISC](LICENSE)a
-=======
-# benchjs
-BenchJS is simple benchmark time track Node.js library
->>>>>>> 676eb37260854953ee845afbe541f1a5832f0bb6
+  [ISC](LICENSE)
